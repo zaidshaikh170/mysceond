@@ -1,1 +1,1 @@
-# mysceond
+print "hello world"
